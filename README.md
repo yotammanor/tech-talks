@@ -1,5 +1,5 @@
 # Tech-Talks
-Links to all external talks I, Yotam Manor, have given, for which it makes sense to appear in my GitHub account.
+Links to all the tech talks I have given.
 
 # Talks
 - [Fighting The Curse of Knowledge - Insights on Mentoring Young Pythonists](http://slides.com/yotammanor/fighting-the-curse-of-knowledge)
